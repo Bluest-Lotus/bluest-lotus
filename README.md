@@ -1,5 +1,5 @@
 ### Hi there 👋
-- 🔭 I’m currently working on ... Hackathon Projects
+- 🔭 I’m currently working on ... Hackclub lasertag
 - 🌱 I’m currently learning ... Highschool stuff ig
 <!-- - 👯 I’m looking to collaborate on ... 
 - 🤔 I’m looking for help with ...

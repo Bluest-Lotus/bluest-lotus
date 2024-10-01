@@ -1,5 +1,5 @@
 ### Hi there 👋
-- 🔭 I’m currently working on ... Hackclub lasertag
+- 🔭 I’m currently working on ... Bluest lotus youtube channel
 - 🤔 I’m looking for help with ... Programming Rasbery Pi Pico microcontrollers with arduino IDE
 <!-- - 🌱 I’m currently learning ... Highschool stuff ig
 - 👯 I’m looking to collaborate on ... 

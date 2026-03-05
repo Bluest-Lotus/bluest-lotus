@@ -1,7 +1,7 @@
 ### Hi there 👋
-I'm John, an automations engineer based in North-America.
-I Design and build whatever I can imagine ..(and have the time for).
-I have experience in STEM education where i tech robotics and programming concepts through ages k-12
+# I'm John, an automations engineer based in North-America.
+# I Design and build whatever I can imagine ..(and have the time for).
+# I have experience in STEM education where i tech robotics and programming concepts through ages k-12
 <!-- - 🔭 I’m currently working on ... Bluest lotus youtube channel
 - 🤔 I’m looking for help with ... Programming Rasbery Pi Pico microcontrollers with arduino IDE
 - 🌱 I’m currently learning ... Highschool stuff ig
